@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Tue 10 Jan 2012 21:50:58 GMT
+EESchema Schematic File Version 2  date Tue 31 Jan 2012 23:27:19 GMT
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -29,12 +29,12 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:psu-cache
+LIBS:shared
 EELAYER 24  0
 EELAYER END
 $Descr A4 11700 8267
 Sheet 1 1
-Title "Amp1 PSU"
+Title "AMPly PSU"
 Date "10 jan 2012"
 Rev "1"
 Comp "Adam Greig"

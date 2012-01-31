@@ -1,4 +1,4 @@
-PCBNEW-BOARD Version 1 date Tue 10 Jan 2012 23:21:21 GMT
+PCBNEW-BOARD Version 1 date Tue 31 Jan 2012 23:27:35 GMT
 
 # Created by Pcbnew(2010-03-14)-final
 
@@ -19,8 +19,8 @@ $EndGENERAL
 
 $SHEETDESCR
 Sheet A4 11700 8267
-Title "Amp1 PSU"
-Date "10 jan 2012"
+Title "AMPly PSU"
+Date "31 jan 2012"
 Rev "1"
 Comp "Adam Greig"
 Comment1 ""
@@ -35,7 +35,7 @@ ZoneGridSize 250
 Layers 2
 Layer[0] Back signal
 Layer[15] Front signal
-TrackWidth 197
+TrackWidth 80
 TrackWidthList 79
 TrackWidthList 118
 TrackWidthList 157
@@ -1673,7 +1673,7 @@ ZLayer 0
 ZAux 6 E
 ZClearance 315 T
 ZMinThickness 100
-ZOptions 1 16 F 200 394
+ZOptions 1 16 S 200 394
 ZCorner 65945 37598 0
 ZCorner 65945 22047 0
 ZCorner 39075 22047 0
