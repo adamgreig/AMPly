@@ -1,6 +1,7 @@
 /*
  * AMP1 PA Firmware
  * Copyright 2012 Adam Greig
+ * Released under the Simplified BSD License, see LICENSE
  *
  * Control the amp chip's MUTE, SHUTDOWN, GAIN0 and GAIN1 pins.
  */
