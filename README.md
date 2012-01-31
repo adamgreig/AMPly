@@ -17,13 +17,16 @@ Modules
 -------
 
 Current modules:
+
 * Power Amplifier
 * Power Supply
 
 Coming-Soon modules:
+
 * Volume Control
 
 Planned modules:
+
 * Source Select
 * System Control
 * Front Panel
