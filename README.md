@@ -17,7 +17,7 @@ Modules
 -------
 
 Current modules:
-* Power Amplification
+* Power Amplifier
 * Power Supply
 
 Coming-Soon modules:
