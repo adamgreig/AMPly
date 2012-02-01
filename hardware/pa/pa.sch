@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Mon 30 Jan 2012 23:05:08 GMT
+EESchema Schematic File Version 2  date Wed 01 Feb 2012 01:00:38 GMT
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -29,14 +29,14 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:amp1
-LIBS:amp-cache
+LIBS:shared
+LIBS:pa-cache
 EELAYER 24  0
 EELAYER END
 $Descr A4 11700 8267
 Sheet 1 1
 Title "AMPly Power Amplifier"
-Date "30 jan 2012"
+Date "1 feb 2012"
 Rev "1"
 Comp "Adam Greig"
 Comment1 ""
@@ -819,7 +819,7 @@ U 1 1 4F0DDF62
 P 8000 3650
 F 0 "L1" V 7950 3650 40  0000 C CNN
 F 1 "22µH" V 8100 3650 40  0000 C CNN
-F 2 "SMD1206" H 8000 3650 60  0001 C CNN
+F 2 "RADIAL5" H 8000 3650 60  0001 C CNN
 F 4 "1711862" H 8000 3650 60  0001 C CNN "Farnell"
 	1    8000 3650
 	0    1    1    0   
@@ -830,7 +830,7 @@ U 1 1 4F0DDF5E
 P 8000 4750
 F 0 "L2" V 7950 4750 40  0000 C CNN
 F 1 "22µH" V 8100 4750 40  0000 C CNN
-F 2 "SMD1206" H 8000 4750 60  0001 C CNN
+F 2 "RADIAL5" H 8000 4750 60  0001 C CNN
 F 4 "1711862" H 8000 4750 60  0001 C CNN "Farnell"
 	1    8000 4750
 	0    1    1    0   
