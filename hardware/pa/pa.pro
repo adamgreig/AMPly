@@ -1,4 +1,4 @@
-update=Tue 31 Jan 2012 23:25:46 GMT
+update=Tue 31 Jan 2012 23:50:47 GMT
 version=1
 last_client=pcbnew
 [cvpcb]
@@ -103,7 +103,7 @@ TxtLar=120
 MSegLar=150
 WpenSer=10
 [pcbnew/libraries]
-LibDir=
+LibDir=../shared
 LibName1=sockets
 LibName2=connect
 LibName3=discret
@@ -114,4 +114,4 @@ LibName7=display
 LibName8=valves
 LibName9=led
 LibName10=dip_sockets
-LibName11=/home/adam/Projects/AMPly/hardware/shared/shared
+LibName11=shared
