@@ -1,4 +1,4 @@
-update=Tue 31 Jan 2012 23:26:31 GMT
+update=Wed 01 Feb 2012 00:05:59 GMT
 version=1
 last_client=eeschema
 [cvpcb]
@@ -36,7 +36,7 @@ TxtLar=120
 MSegLar=150
 WpenSer=10
 [pcbnew/libraries]
-LibDir=
+LibDir=../shared
 LibName1=sockets
 LibName2=connect
 LibName3=discret
@@ -47,10 +47,10 @@ LibName7=display
 LibName8=valves
 LibName9=led
 LibName10=dip_sockets
-LibName11=/home/adam/Projects/AMPly/hardware/shared/shared
+LibName11=shared
 [eeschema]
 version=1
-LibDir=
+LibDir=../shared
 NetFmt=1
 HPGLSpd=20
 HPGLDm=15
@@ -114,4 +114,4 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
-LibName31=/home/adam/Projects/AMPly/hardware/shared/shared
+LibName31=shared
