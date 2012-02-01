@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Wed 01 Feb 2012 01:00:38 GMT
+EESchema Schematic File Version 2  date Wed 01 Feb 2012 02:02:48 GMT
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -820,7 +820,7 @@ P 8000 3650
 F 0 "L1" V 7950 3650 40  0000 C CNN
 F 1 "22µH" V 8100 3650 40  0000 C CNN
 F 2 "RADIAL5" H 8000 3650 60  0001 C CNN
-F 4 "1711862" H 8000 3650 60  0001 C CNN "Farnell"
+F 4 "2062692" H 8000 3650 60  0001 C CNN "Farnell"
 	1    8000 3650
 	0    1    1    0   
 $EndComp
@@ -831,7 +831,7 @@ P 8000 4750
 F 0 "L2" V 7950 4750 40  0000 C CNN
 F 1 "22µH" V 8100 4750 40  0000 C CNN
 F 2 "RADIAL5" H 8000 4750 60  0001 C CNN
-F 4 "1711862" H 8000 4750 60  0001 C CNN "Farnell"
+F 4 "2062692" H 8000 4750 60  0001 C CNN "Farnell"
 	1    8000 4750
 	0    1    1    0   
 $EndComp
