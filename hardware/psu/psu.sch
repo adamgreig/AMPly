@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Tue 31 Jan 2012 23:27:19 GMT
+EESchema Schematic File Version 2  date Thu 02 Feb 2012 00:42:39 GMT
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -30,12 +30,13 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:shared
+LIBS:psu-cache
 EELAYER 24  0
 EELAYER END
 $Descr A4 11700 8267
 Sheet 1 1
 Title "AMPly PSU"
-Date "10 jan 2012"
+Date "2 feb 2012"
 Rev "1"
 Comp "Adam Greig"
 Comment1 ""
@@ -524,9 +525,9 @@ L R R2
 U 1 1 4F0BB302
 P 3550 5400
 F 0 "R2" V 3630 5400 50  0000 C CNN
-F 1 "78R7" V 3550 5400 50  0000 C CNN
+F 1 "78k7" V 3550 5400 50  0000 C CNN
 F 2 "SMD0805" H 3550 5400 60  0001 C CNN
-F 4 "1810393" H 3550 5400 60  0001 C CNN "Farnell"
+F 4 "1810692" H 3550 5400 60  0001 C CNN "Farnell"
 	1    3550 5400
 	1    0    0    -1  
 $EndComp
